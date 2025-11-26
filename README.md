@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Antonio Marcos Bezerra David Filho, tenho 26 anos e sou natural de Fortaleza-CE.  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia.
+Olá, sou Marcos David, tenho 26 anos e sou natural de Fortaleza-CE.  
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia.
 “Código bom não é o que impressiona; é o que resolve.” .
 
 <div style="display: inline_block"><br>
